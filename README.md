@@ -3,7 +3,7 @@ Hola chicos en este repositorio encontraran la programación y los comandos comp
 
 ### Conceptos introductorios:
 - Para iniciar recomendamos ver algunos conceptos introductorios con el fin de entender un poco mejor todo el funcionamiento, por eso te dejamos la explicacion en este [video.](https://youtu.be/ut2jSVonUbM?si=1yJkblql5TpGPmNo)
-- Recuerda que tod el curso consta de dos videos de un total de 4 horas, asi que te recomendamos ver los videos completos para comprender mejor todo el funcionamiento.
+- Recuerda que todo el curso consta de dos videos de un total de 4 horas, asi que te recomendamos ver los videos completos para comprender mejor todo el funcionamiento.
 
 ### Face Recognition System & Liveness V 1.0:
 - Como primer paso crearemos un sistema de reconocimiento facial con prueba liveness funcional, recuerda que desarrollamos todo el codigo en este [video explicativo](https://youtu.be/ut2jSVonUbM?si=1yJkblql5TpGPmNo). 
